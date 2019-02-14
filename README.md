@@ -2,14 +2,14 @@
 
 ![](https://telegra.ph/file/d21c05eb07565dc1f634f.png)
 
-**Spotify** 100%working [Download>>](https://downloads.nordcdn.com/apps/windows/10/NordVPN/latest/NordVPNSetup.exe)
+**Spotify** 100%working [Download>>](https://www.spotify.com/us/download/windows/)
+isrwtiizo@tmpmail.org
 
 
 
 
 
-
-**Password：** 
+**Password：** SpotifyMusic.123
 
 ![](https://telegra.ph/file/3412135d5842db01a6c18.png)
 
