@@ -476,7 +476,7 @@ zR6%2FQF67zkUhCoGZJhPpctfmz7i4WmpcD",
 
 }
 
-]*
+]
 
 
 
