@@ -32,7 +32,7 @@ kjowviurk@tmail.ws
 
 **Password：** Nordvpnfree
 
-Netflix Cookies
+**Netflix Cookies
 
 *[
 
@@ -476,7 +476,7 @@ zR6%2FQF67zkUhCoGZJhPpctfmz7i4WmpcD",
 
 }
 
-]
+]*
 
 
 
