@@ -34,7 +34,8 @@ kjowviurk@tmail.ws
 
 **Netflix Cookies**
 
-'''[
+(```)
+[
 {
     "domain": ".netflix.com",
     "hostOnly": false,
@@ -251,4 +252,5 @@ kjowviurk@tmail.ws
     "value": "1",
     "id": 16
 }
-]'''
+]
+(```)
