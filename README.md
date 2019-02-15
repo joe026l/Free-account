@@ -34,7 +34,7 @@ kjowviurk@tmail.ws
 
 **Netflix Cookies**
 
-*[
+[
 
 {
 
