@@ -32,7 +32,9 @@ kjowviurk@tmail.ws
 
 **Password：** Nordvpnfree
 
-**Netflix Cookies**
+![](https://telegra.ph/file/2a869fc770abc5b6d4636.jpg)
+
+**Netflix Cookies** [Download>>](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 
 ```
 [
