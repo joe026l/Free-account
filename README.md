@@ -32,9 +32,14 @@ kjowviurk@tmail.ws
 
 **Password：** Nordvpnfree
 
-![](https://telegra.ph/file/2a869fc770abc5b6d4636.jpg)
+
+![](https://telegra.ph/file/da3af9a3058e23a306b67.jpg)
 
 [v2ray订阅地址](https://youlianboshi.netlify.com/)
+
+[完全免费的v2订阅，每个月50G>>](https://v2fast.tk/cart.php)
+
+![](https://telegra.ph/file/2a869fc770abc5b6d4636.jpg)
 
 **Netflix Cookies**  [Download>>](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 
