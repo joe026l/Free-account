@@ -53,6 +53,34 @@ kjowviurk@tmail.ws
 },
 {
     "domain": ".netflix.com",
+    "expirationDate": 3697738400.231763,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "dsca",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "customer",
+    "id": 2
+},
+{
+    "domain": ".netflix.com",
+    "expirationDate": 1550265527.431495,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "flwssn",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "940cb9f0-3dae-47b3-8dc7-d6b6d45ab6e9",
+    "id": 3
+},
+{
+    "domain": ".netflix.com",
     "expirationDate": 1550702213,
     "hostOnly": false,
     "httpOnly": false,
@@ -63,39 +91,53 @@ kjowviurk@tmail.ws
     "session": false,
     "storeId": "0",
     "value": "true",
-    "id": 2
-},
-{
-    "domain": ".netflix.com",
-    "expirationDate": 1550242836.483495,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "lhpuuidh-browse-EEYMFKDDGRHPHKWVDC5F44J5IA",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "HK%3AES-BR%3A598bbffd-161d-4477-9254-4f7ca1244b7b_ROOT",
-    "id": 3
-},
-{
-    "domain": ".netflix.com",
-    "expirationDate": 1550242836.483635,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "lhpuuidh-browse-EEYMFKDDGRHPHKWVDC5F44J5IA-T",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "1550199636330",
     "id": 4
 },
 {
     "domain": ".netflix.com",
-    "expirationDate": 1581735977.462243,
+    "expirationDate": 1864609200,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "hasSeenCookieDisclosure",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "true",
+    "id": 5
+},
+{
+    "domain": ".netflix.com",
+    "expirationDate": 1550261933.709216,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "lhpuuidh-browse-NOD2ZPC2RNG3ZFAUJSBEVVANDY",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GB%3AES-AR%3Ab0b19ec5-7dcc-4326-8e11-cbf5e237206a_ROOT",
+    "id": 6
+},
+{
+    "domain": ".netflix.com",
+    "expirationDate": 1550261933.709729,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "lhpuuidh-browse-NOD2ZPC2RNG3ZFAUJSBEVVANDY-T",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "1550254732923",
+    "id": 7
+},
+{
+    "domain": ".netflix.com",
+    "expirationDate": 1581790798.788313,
     "hostOnly": false,
     "httpOnly": false,
     "name": "memclid",
@@ -105,7 +147,7 @@ kjowviurk@tmail.ws
     "session": false,
     "storeId": "0",
     "value": "6075f9b7-5983-4fe1-b4de-ea32c78dde78",
-    "id": 5
+    "id": 8
 },
 {
     "domain": ".netflix.com",
@@ -119,7 +161,7 @@ kjowviurk@tmail.ws
     "session": false,
     "storeId": "0",
     "value": "true",
-    "id": 6
+    "id": 9
 },
 {
     "domain": ".netflix.com",
@@ -133,7 +175,7 @@ kjowviurk@tmail.ws
     "session": false,
     "storeId": "0",
     "value": "true",
-    "id": 7
+    "id": 10
 },
 {
     "domain": ".netflix.com",
@@ -145,12 +187,12 @@ kjowviurk@tmail.ws
     "secure": false,
     "session": true,
     "storeId": "0",
-    "value": "ct%3DBQAOAAEBELxXs6tpOqvs0TdDBlooWIOBwMHaFg7SVpe7cIQlMg8jN1Y9sm6KOwULmPcVmedWJ9OaIJgbbpFhn5aLzrN0acLxck8s88EK0M1MROVwu7AN8T031lJ0dkxgEyUfLOdtllTjPnTWoV6-iuSx1TCM68e_rOug7VU1vBfd5WwNGVu7K-vkcDaTjPPoJtyuAKaDkx9Zh9zdHo2zG5UYKIbf7j_4bdHSlTbkEB5_5z-rZlFH1dUByfidD0SQHfcnbqMoPYCYk5JXZoYBLSvYLTxL7ePJ9I8qyST7eqFC7cPorEFB33dHfwNrUzXLvRJWd52NGmOfMwlilAeYPOVKZS-l7b40ucu--d66YuTTEb7xTcXvfyD1XjMU-VJzcn1XX55M4iG6CAvoMkfwn8rC8uaJMFPmGa3YDaxc-2XlBiDl7Npm9wihmrfExqUA5_y1UU0ZTt-UurH5Ut4fSEOzVdMgM9uXd8UcfmRbxYidDwTDop6UMrJe0IWWpthHW3kp_0MicoKj61xyCpJG58EL6PFSvbW3sY4-r5poWm7qkKMd-pUbdGfXMj3iGhBokGwe2YmswLWeV5SFJurLoz7akUoRLyB8JFoZRn2qN1GOupZJ-5Cyyz4.%26bt%3Ddbl%26ch%3DAQEAEAABABQmjZWU3jyBcqCFTgkG6KwYcaqiP-fVmC0.%26v%3D2%26mac%3DAQEAEAABABSrXiqGNKWzzqRptjCDiyLM27YKNcjmFpQ.",
-    "id": 8
+    "value": "ct%3DBQAOAAEBECCeMeLK4AOR7c7idb5tGqWB4AqNzTJUZLREW0dHfRFBx7gRT3_3kdJL6I4hBZz1hDgSnCb4Hq-Ryyf0k9RVynx53ObYHDEjZ-NvYqS2y169-eImwr8egkAEw7KPuEJvd7m8WuvNZhF9sBeEaN2S4ZT6154VTaDVzMBqo92h2d3hx9p7V0Q2S_eTRqpO8KPVYPENA_MoG_qZgbLwNnR9pJx9kuyu6yoyA1s3GoFQweUxPKOw_nPYzmP2eNZYKwbw-LiT2pKyv4G2CCQHzOGlu0iRtwI3ENAd9bkkG7liHuKaA6PPVkhhEZenK53U4HRRgJMv4SgyRZpHPpoe8PGFOR--cp_r-IoHQL5oqquYJ_UmyN8EQy4XkaX-w6w0cPOxDGTCrSI3_CjtnSUMb0bF5AduruEW8La8G-aEsbJnZ2orJbMPZfl7-fshxbz7kR2eaBP75B_l-Nq5FipkMtCf70vjwLSbXxMVPvYQ7MBqzuXyeTj7kUIvBfsf5WSCodMG-1kmYOZe_d4AW7IXL-1QfYF1dUaSo4MdIo_e5QnSXUfW04Nd3jp4lrMDvljPsydOiaaVZWTyABrzmaNaZYyzqf3bg3Ez0Un1nMl2Z4UTu_1c0BtfQJGU1B9XOufXuOQuXZR9_zyhagrg7ZRtGdUV4wfd_Q..%26bt%3Ddbl%26ch%3DAQEAEAABABTVtNmgEJ1i3sk3eXQifHx13PMfxlkDApE.%26v%3D2%26mac%3DAQEAEAABABRcskotjesNQutMdSHzBlFXug6R3CQZ1jA.",
+    "id": 11
 },
 {
     "domain": ".netflix.com",
-    "expirationDate": 1576429026.86468,
+    "expirationDate": 1576520327.431958,
     "hostOnly": false,
     "httpOnly": false,
     "name": "nfvdid",
@@ -159,22 +201,21 @@ kjowviurk@tmail.ws
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "BQFmAAEBEPyaeyq8b7RHaFqQ8dnxs7dg50Iz6bIcpgaW5%2Bf0snkqFBEOYT5mQvm1MLLns%2FCpLUYjkxsyuQQKIhVzwa88KgNqoGex%2BgE%2BnlvT1IEOUlVRQh8nOVHmi38zR6%2FQF67zkUhCoGZJhPpctfmz7i4WmpcD",
-    "id": 9
+    "value": "BQFmAAEBEHUNplV8OuIOn81w5qFjfNpg5pVvcd%2FMNW8gvvSu47l3eoIvJHxiMI0ZyLzkGkbDzCS4lOW8w%2Buh1zMcBxy9%2BcjqMYzKjM%2BFCuBlBjAG5AJVqIWW%2BX%2BF6gRY911mUSEwoTmlE61NnpcL9zVkXgSvsjaO",
+    "id": 12
 },
 {
     "domain": ".netflix.com",
-    "expirationDate": 1864598401.462156,
     "hostOnly": false,
     "httpOnly": false,
-    "name": "playerPerfMetrics",
+    "name": "profilesNewSession",
     "path": "/",
     "sameSite": "no_restriction",
     "secure": false,
-    "session": false,
+    "session": true,
     "storeId": "0",
-    "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A3713%2C%22throughputNiqr%22%3A0.845766004127675%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A3713%2C%22throughputNiqr%22%3A0.845766004127675%7D%7D",
-    "id": 10
+    "value": "0",
+    "id": 13
 },
 {
     "domain": ".netflix.com",
@@ -186,8 +227,8 @@ kjowviurk@tmail.ws
     "secure": true,
     "session": true,
     "storeId": "0",
-    "value": "v%3D2%26mac%3DAQEAEQABABSuxKkHwhKGLICSy_uHiv9ZMh9DLOLWbHQ.%26dt%3D1550163426395",
-    "id": 11
+    "value": "v%3D2%26mac%3DAQEAEQABABRX5JFBXW7l-CgF9CrNTKHPI16sstTLgnI.%26dt%3D1550254786283",
+    "id": 14
 },
 {
     "domain": ".www.netflix.com",
@@ -199,60 +240,8 @@ kjowviurk@tmail.ws
     "secure": false,
     "session": true,
     "storeId": "0",
-    "value": "1550199602981%7C155019960264255615%7C155019960214113671%7C%7C6%7Cnull",
-    "id": 12
-},
-{
-    "domain": "www.netflix.com",
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "BL_D_PROV",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": true,
-    "storeId": "0",
-    "value": "",
-    "id": 13
-},
-{
-    "domain": "www.netflix.com",
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "BL_T_PROV",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": true,
-    "storeId": "0",
-    "value": "",
-    "id": 14
-},
-{
-    "domain": "www.netflix.com",
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "SL_GWPT_Show_Hide_tmp",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": true,
-    "storeId": "0",
-    "value": "1",
+    "value": "1550254790377%7C155025474352378737%7C15502547438758538%7C%7C6%7CNOD2ZPC2RNG3ZFAUJSBEVVANDY",
     "id": 15
-},
-{
-    "domain": "www.netflix.com",
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "SL_wptGlobTipTmp",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": true,
-    "storeId": "0",
-    "value": "1",
-    "id": 16
 }
 ]
 ```
