@@ -35,7 +35,7 @@ kjowviurk@tmail.ws
 
 ![](https://telegra.ph/file/da3af9a3058e23a306b67.jpg)
 
-[v2ray订阅地址](https://youlianboshi.netlify.com/)
+**有脸博士的**[v2ray订阅地址](https://youlianboshi.netlify.com/)
 
 [完全免费的v2订阅，每个月50G>>](https://v2fast.tk/cart.php)
 
